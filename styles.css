@@ -9,7 +9,7 @@ html,body{
 
 #header{
     height: 44rem;
-    background: url("/images/desktop/image-header.jpg");
+    background: url("images/desktop/image-header.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -110,7 +110,7 @@ html,body{
 .first-img{
     width: 50%;
     height: 30rem;
-    background: url("/images/desktop/image-transform.jpg");
+    background: url("images/desktop/image-transform.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -118,7 +118,7 @@ html,body{
 .second-img{
     width: 50%;
     height: 30rem;
-    background: url("/images/desktop/image-stand-out.jpg");
+    background: url("images/desktop/image-stand-out.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
@@ -151,7 +151,7 @@ html,body{
     height: 30rem;
     display: flex;
     align-items: center;
-    background-image: url("/images/desktop/image-graphic-design.jpg");
+    background-image: url("images/desktop/image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -161,7 +161,7 @@ html,body{
     height: 30rem;
     display: flex;
     align-items: center;
-    background-image: url("/images/desktop/image-photography.jpg");
+    background-image: url("images/desktop/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
