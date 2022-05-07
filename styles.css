@@ -379,9 +379,9 @@ html,body{
         height: 21rem;
         position: absolute;
         background-color: white;
-        right: 12px;
+        right: -28px;
         top: 97px;
-        width: 25rem;
+        width: 22rem;
         z-index: 1;
         align-items: center;
     }
@@ -415,7 +415,7 @@ html,body{
         margin: 6rem;
     }
     .arrow{
-        transform: translate(268px,-56px);
+        transform: translate(162px,-56px);
         height: 135px;
     }
     #first-display{
@@ -456,7 +456,7 @@ html,body{
         font-weight: bold;
     }
     .display-content{
-        margin: 75px 65px 0 81px;
+        margin: 7px 1px 0 6px;
         width: 100%;
         height: 93%;
         display: flex;
@@ -471,7 +471,7 @@ html,body{
         align-items: center;
     }
     .display-content h3{
-        margin: 0 44px 19px 47px;
+        margin: 0 77px 9px 75px;
         font-size: 2rem;
         justify-content: center;
         text-align: center;
